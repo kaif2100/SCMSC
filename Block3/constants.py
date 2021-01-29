@@ -6,3 +6,6 @@ ISS_periapsis = 337e3 # ISS periapsis height; m
 ISS_apoapsis = 430e3 # ISS apoapsis height; m
 ISS_speed = 7600 # ISS mean speed; m/s
 max_to_zero = 1e-6 # If a value is less than this it will be treated as zero
+solar_const = 1400 # W/m^2
+au = 149597870700 # astronomical unit; m
+c = 299792458 # speed of light; m/s
